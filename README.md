@@ -1,9 +1,9 @@
 # Drugs_Classification
 
-#Context
-Since as a beginner in machine learning it would be a great opportunity to try some techniques to predict the outcome of the drugs that might be accurate for the patient.
+# Context
+#In machine learning it would be a great opportunity to try some techniques to predict the outcome of the drugs that might be accurate for the patient.
 
-#Content
+# Content
 The target feature is
 Drug type
 The feature sets are:
@@ -13,5 +13,5 @@ Blood Pressure Levels (BP)
 Cholesterol Levels
 Na to Potassium Ration
 
-#Inspiration
+# Inspiration
 The main problem here in not just the feature sets and target sets but also the approach that is taken in solving these types of problems
